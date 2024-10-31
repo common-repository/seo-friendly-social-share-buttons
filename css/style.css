@@ -1,0 +1,96 @@
+
+@media screen and (min-width: 1024px) {
+    .sfssb-whatsapp {
+	display: none !important;
+    }
+}
+ .sfssb-link img {
+    padding: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+     box-shadow: 0 0 0 0 #fff !important;
+}
+
+    
+    
+.sfssb-link {
+    color: white !important;
+    font-size: 12px;
+    border-radius: 2px;
+    margin: 7px;
+    cursor: pointer;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+    -moz-box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+    -webkit-box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+    margin-top: 2px;
+    display: inline-block;
+    text-decoration: none;
+}
+ 
+.sfssb-link:hover,.sfssb-link:active {
+    color: white;
+}
+ 
+.sfssb-twitter {
+    background-image:url(../images/twitter45x45.png);
+}
+ 
+.sfssb-twitter:hover,.sfssb-twitter:active {
+     background-image:url(../images/twitter45x45.png);
+}
+ 
+.sfssb-facebook {
+       background-image:url(../images/facebook45x45.png);
+}
+ 
+.sfssb-facebook:hover,.sfssb-facebook:active {
+       background-image:url(../images/facebook45x45.png);sfssb
+}
+ 
+.sfssb-googleplus {
+       background-image:url(../images/googleplus45x45.png);
+}
+ 
+.sfssb-googleplus:hover,.sfssb-googleplus:active {
+       background-image:url(../images/googleplus45x45.png);
+}
+ 
+.sfssb-buffer {
+     background-image:url(../images/buffer45x45.png);
+}
+ 
+.sfssb-buffer:hover,.sfssb-buffer:active {
+       background-image:url(../images/buffer45x45.png);
+}
+ 
+.sfssb-pinterest {
+       background-image:url(../images/pinterest45x45.png);
+}
+ 
+.sfssb-pinterest:hover,.sfssb-pinterest:active {
+       background-image:url(../images/pinterest45x45.png);
+}
+ 
+.sfssb-linkedin {
+      background-image:url(../images/linkedin45x45.png);
+}
+ 
+.sfssb-linkedin:hover,.sfssb-linkedin:active {
+       background-image:url(../images/linkedin45x45.png);
+}
+ 
+.sfssb-whatsapp {
+    background: #43d854;
+}
+ 
+.sfssb-whatsapp:hover,.sfssb-whatsapp:active {
+    background: #009688;
+}
+ 
+.sfssb {
+    margin: 20px 0px 25px 0px;
+    -webkit-font-smoothing: antialiased;
+    font-size: 12px;
+}
